@@ -42,11 +42,11 @@ while True:
 
 ## OUPUT
 ### client:
- <img src="https://github.com/aaliyafathimaa/2b_SLIDING_WINDOW_PROTOCOL/assets/154801069/1ccde7bd-7b63-4d4e-8d3d-ed240a7d0fda.type" width="500" height="500">
+ <img src="https://github.com/aaliyafathimaa/2b_SLIDING_WINDOW_PROTOCOL/assets/154801069/1ccde7bd-7b63-4d4e-8d3d-ed240a7d0fda.type" width="" height="">
 
 ### server:
 
- <img src="https://github.com/aaliyafathimaa/2b_SLIDING_WINDOW_PROTOCOL/assets/154801069/03ed98ce-a702-41e0-9ca6-78c5c11ad66b.type" width="500" height="500">
+ <img src="https://github.com/aaliyafathimaa/2b_SLIDING_WINDOW_PROTOCOL/assets/154801069/03ed98ce-a702-41e0-9ca6-78c5c11ad66b.type" width="" height="">
 
 
 ## RESULT:
